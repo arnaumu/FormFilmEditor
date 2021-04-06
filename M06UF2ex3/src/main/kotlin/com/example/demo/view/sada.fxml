@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.view.Sada">
+   <children>
+      <VBox layoutX="220.0" layoutY="100.0" prefHeight="200.0" prefWidth="217.0">
+         <children>
+            <Label text="Label" />
+            <Button mnemonicParsing="false" text="Button" />
+            <TextField promptText="adas" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
